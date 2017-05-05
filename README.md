@@ -14,7 +14,7 @@ A docker compose to set up an ELK stack from Elastic's latest images (currently 
 ```
 - A sample template mapping is also included
 
-````
+```
 {
   "template" : "logs-*",
   "order" : 0,
